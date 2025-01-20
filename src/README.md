@@ -2,6 +2,8 @@
 
 ## What is this Document
 
+This is the Lightning Creations Consumer Bill of Rights, which is a document that describes
+
 ## Why does this document exist
 
 ## Who uses this document
