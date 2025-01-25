@@ -9,3 +9,5 @@ This is the Lightning Creations Consumer Bill of Rights, which is a document tha
 ## Who uses this document
 
 ## Can I apply this document to my own company?
+
+## How is this document updated
