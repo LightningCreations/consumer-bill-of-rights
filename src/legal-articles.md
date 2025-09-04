@@ -17,4 +17,26 @@ The Corporation shall not, in entering into any agreement with a Consumer for go
 * If the good or service is offered for a fee, a provision waiving or disclaiming the implied warranties in respect to the good or service unless the agreement offers an explicit warranty instead,
 
 
-The Corporation shall not require a consumer to assent to the above provisions as a condition of the Corporation offering the agreement, nor shall the Corporation provide preferential or beneficial terms or consideration in exchange for a consumer assenting to the above provisions.
+The Corporation shall not require a consumer to assent to the above provisions as a condition of the Corporation offering the agreement, nor shall the Corporation provide preferential or beneficial terms other than by the nature of the provision or consideration in exchange for a consumer assenting to the above provisions.
+
+## Right to Product/Service that is Useful and Functional By Design
+
+### Right to Reasonable Continuity
+
+### Right to Repair
+
+## Right to Reasonable Assistance/Service
+
+## Right to Cancel
+
+## Right to Transparent Disclosure
+
+## Right to Data Privacy and Control
+
+## Right to Enforcement
+
+### Right to Legally Binding Enforcement
+
+## Right to Information (about these Rights)
+
+## Updates
